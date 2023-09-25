@@ -12,7 +12,6 @@ Data Mining and Cleaning: The raw data was explored, cleaned, and processed to e
 Data Modifications: Necessary modifications and transformations were applied to prepare the data for analysis.
 Inferencing: Statistical techniques and methodologies were employed to make inferences and draw insights from the data.
 Visualization: Various graphs and visualizations were created to present the findings in an understandable and engaging manner for a broad audience.
-Getting Started
 
 ### License and Terms of Use 
 

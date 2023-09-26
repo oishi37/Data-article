@@ -1,6 +1,6 @@
 # Breaking into bicycle theft 
 
-This repository contains the code and resources for a data analysis project conducted for a school assessment. The analysis was performed using R, focusing on data mining, data cleaning, modifications, inferencing, and visualization through various graphs to facilitate easy understanding for a diverse audience.
+This repository contains the code and resources for a data analysis project conducted for a school assessment. The dataset is taken from the Toronto Police Service Public Safety Data Portal. The analysis was performed using R, focusing on data mining, data cleaning, modifications, inferencing, and visualization through various graphs to facilitate easy understanding for a diverse audience.
 
 ### Objective
 
